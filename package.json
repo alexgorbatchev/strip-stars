@@ -1,6 +1,6 @@
 {
   "name": "strip-stars",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Removes C-style comment stars from every line of the string.",
   "main": "lib/strip-stars.js",
   "files": [
